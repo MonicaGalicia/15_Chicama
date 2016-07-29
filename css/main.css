@@ -1,0 +1,75 @@
+.fondo{
+	background-image:url(../img/grupal.jpg);
+	background-size:100%;
+	height:750px;
+	background-repeat:no-repeat;
+}
+
+.boton{
+	width:150px;
+	height:80px;
+	background-color:orange;
+	border:orange;
+	margin-top:35px;
+	text-decoration:none;
+
+}
+
+#sumate{
+	font-size:20px;
+	font-family:Cursive;
+
+}
+
+#logolab{
+	width:500px;
+	height:70px;
+	margin-top:35px;
+}
+
+li{
+	display:inline-block;
+	list-style:none;
+	margin-top:35px;
+}
+
+.ali{
+	text-decoration:none;
+	color:black;
+	font-size:22px;
+}
+
+.inlineimg{
+	width:400px;
+	height:250px;
+	margin-top:55px;
+	margin-left:5px;
+}
+
+.piefoto{
+	margin-left:60px;
+	margin-top:10px;
+	margin-bottom:60px; 
+}
+
+a{
+	color:black;
+
+}
+
+button{
+	margin-left:50px;
+}
+
+#backgris{
+	background-color:#151515;
+	background-size:100%;
+	height:100px;
+	padding-left:70px;
+	padding-top:25px;
+}
+
+#footer{
+	color:white;
+	font-size:20px;
+}
